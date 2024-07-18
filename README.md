@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunny84patel
-- 👀 I’m interested in DATA SCIENTIST
+- 👀 I’m interested in AI/ML.
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me patel844732sunny@gmail.com
