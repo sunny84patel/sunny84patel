@@ -12,7 +12,7 @@ Currently at Deligence Technologies, where I own the AI stack end to end: archit
 
 ## 🚀 Featured Projects
 
-### [Enterprise Knowledge Agent](REPO-LINK-HERE)
+### [Enterprise Knowledge Agent](https://github.com/sunny84patel/enterprise-knowledge-MultiAgent)
 Self-correcting 6-agent RAG system on LangGraph — SafetyCheck → Router → Retriever → Rewriter → FactCheck → Synthesizer. When retrieved context isn't good enough, the graph autonomously reformulates the query and retries.
 
 - **97.9% answer relevancy**, 75% context precision (RAGAS, on a curated golden set)
@@ -22,7 +22,7 @@ Self-correcting 6-agent RAG system on LangGraph — SafetyCheck → Router → R
 
 `LangGraph` `LlamaIndex` `Qdrant` `FastAPI` `React` `LangSmith` `RAGAS` `Docker`
 
-### [MCP-Native Agent Gateway](REPO-LINK-HERE)
+### [MCP-Native Agent Gateway(Working)]
 Gateway between LLM agents and enterprise tools: authenticated MCP servers, per-agent least-privilege scoping, tiered human approval, and a full audit trail.
 
 - Tool risk tiers — `read` auto-executes, `write` pauses for human approval, `destructive` is blocked
@@ -32,7 +32,7 @@ Gateway between LLM agents and enterprise tools: authenticated MCP servers, per-
 
 `FastMCP` `LangGraph` `FastAPI` `Postgres` `Redis` `Langfuse` `Docker`
 
-### [RAG-Eval Studio](REPO-LINK-HERE)
+### [RAG-Eval Studio](https://github.com/sunny84patel/RAG-Evaluation)
 Autonomous RAG benchmarking platform — a 7-node LangGraph pipeline that ingests documents, auto-generates eval Q&A via LLM synthesis, retrieves contexts and scores across 4 RAGAS dimensions.
 
 - Side-by-side comparison of 3 chunking strategies × 2 embedding models on a live leaderboard
@@ -41,15 +41,6 @@ Autonomous RAG benchmarking platform — a 7-node LangGraph pipeline that ingest
 
 `LangGraph` `RAGAS` `Qdrant` `Streamlit` `FastAPI` `LangSmith`
 
-### [Biomedical RAG](REPO-LINK-HERE)
-Domain-specific medical document retrieval using BioMistral and PubMedBERT embeddings over Qdrant — domain-tuned embedding selection rather than a general-purpose model.
-
-`BioMistral` `PubMedBERT` `Qdrant` `LangChain` `Python`
-
-### [AI Legal Consultancy ChatSupport](REPO-LINK-HERE)
-Semantic retrieval over a 10,000+ document legal corpus — LlamaIndex sentence-window chunking with LLaMA 3 on Pinecone. 92% answer relevance on curated QA benchmarks; metadata-filtered re-ranking cut mean retrieval latency 45%.
-
-`LlamaIndex` `LLaMA 3` `Pinecone` `Flask` `AWS EC2` `Docker`
 
 ---
 
@@ -82,4 +73,4 @@ Semantic retrieval over a 10,000+ document legal corpus — LlamaIndex sentence-
 
 ---
 
-**Open to AI Engineer / Generative AI Engineer / Agentic AI Engineer roles.** 30-day notice · Delhi NCR or remote.
+**Open to AI Engineer / Generative AI Engineer / Agentic AI Engineer roles.** 30-day notice · Delhi NCR or remote. Open to Relocation.
